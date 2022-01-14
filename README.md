@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Passionné de design, je conçois et développe des interfaces mobile/web intuitives et belles.
 
-Je suis actuellement designer produit et développeur front-end à <a href="https://www.notilus.fr/">Notilus</a>
+Je suis actuellement designer produit et développeur front-end à <a href="https://www.notilus.fr/">Notilus</a>. 
 
 Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et la simplicité.
 
