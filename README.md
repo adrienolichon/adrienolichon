@@ -28,4 +28,4 @@ Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et 
 
 📷 <a href="https://unsplash.com/@adrienolichon">unsplash.com/@adrienolichon</a>
 
-![Top Langs]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrienolichon)
