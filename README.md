@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **adrienolichon/adrienolichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Passionné de design, je conçois et développe des interfaces mobile/web intuitives et belles.
+
+Je suis actuellement designer produit et développeur front-end à <a href="https://www.notilus.fr/">Notilus</a>
+
+Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et la simplicité.
