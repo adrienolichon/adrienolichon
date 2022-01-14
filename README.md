@@ -21,7 +21,7 @@ Passionné de design, je conçois et développe des interfaces mobile/web intuit
 Je suis actuellement designer produit et développeur front-end à <a href="https://www.notilus.fr/">Notilus</a>. 
 
 Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et la simplicité.
-
+<br>
 ### Compétences
 Design d’interfaces, web design, design thinking, développement web, Suite Adobe, Figma, Notion
 <br>
