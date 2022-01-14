@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Adrien Olichon
+# Adrien Olichon
 
 ## Designer produit & développeur front-end
 
