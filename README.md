@@ -23,7 +23,7 @@ Je suis actuellement designer produit et développeur front-end à <a href="http
 Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et la simplicité.
 <br>
 ### Compétences
-Design d’interfaces, web design, design thinking, développement web, Suite Adobe, Figma, Notion
+Design d’interfaces, web design, design thinking, développement web, Suite Adobe, Figma, Notion. 
 <br>
 <br>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
