@@ -27,8 +27,8 @@ Design d’interfaces, web design, design thinking, développement web, Suite Ad
 <br>
 <br>
 <img align="left" alt="HTML5" width="32px" src="https://github.com/adrienolichon/adrienolichon/blob/main/icons/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/adrienolichon/adrienolichon/main/icons/css.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://github.com/adrienolichon/adrienolichon/blob/main/icons/javascript.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/adrienolichon/adrienolichon/main/icons/css.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://github.com/adrienolichon/adrienolichon/blob/main/icons/javascript.png" />
 
 <br><br>
 
