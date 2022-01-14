@@ -22,7 +22,7 @@ Je suis actuellement designer produit et développeur front-end à <a href="http
 
 Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et la simplicité.
 
-<a href="https://adrienolichon.github.io/">adrienolichon.github.io/</a>
+<a href="https://adrienolichon.github.io">adrienolichon.github.io</a>
 
 📫  <a href="mailto:olichon.adrien@gmail.com">olichon.adrien@gmail.com</a>
 
