@@ -26,7 +26,7 @@ Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et 
 Design d’interfaces, web design, design thinking, développement web, Suite Adobe, Figma, Notion. 
 <br>
 <br>
-<img align="left" alt="HTML5" width="28px" src="https://github.com/adrienolichon/adrienolichon/blob/main/icons/html.png" />
+<img align="left" alt="HTML5" width="32px" src="https://github.com/adrienolichon/adrienolichon/blob/main/icons/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/adrienolichon/adrienolichon/main/icons/css.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://github.com/adrienolichon/adrienolichon/blob/main/icons/javascript.png" />
 
