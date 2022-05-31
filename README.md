@@ -6,7 +6,7 @@
 ## Designer produit & développeur front-end
 
 
-<img align="center" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
+<img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
 
 Passionné de design, je conçois et développe des interfaces mobile/web intuitives et belles.
 
