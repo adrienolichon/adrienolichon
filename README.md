@@ -8,11 +8,12 @@
 
 <img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
 
-Passionné de design, je conçois et développe des interfaces mobile/web intuitives et belles.
+Passionné de design, j'aime créer des sites web, des applications et des identités graphiques.
 
-Je suis actuellement designer produit et développeur front-end à <a href="https://www.notilus.fr/">Notilus</a>. 
+Actuellement designer produit et développeur front-end à <a href="https://www.cegid.com/fr/">Cegid</a>.  
 
-Je focalise mon travail sur l’accessibilité, la facilité d’utilisation et la simplicité.
+Je conçois et développe des apps mobile/web.
+Je focalise mon travail sur l’accessibilité et l’intuitivité.
 <br>
 ### Compétences
 Design d’interfaces, web design, design thinking, développement web, Suite Adobe, Figma, Notion. 
